@@ -83,7 +83,7 @@ public class VODClient extends Frame
    
     public final String getAppletInfo()
     {
-        return "VOD3 Movie Player";
+        return "VOD3 MoviePlayer";
     }
 /*
     public String getParameter(String string1, String string2)
@@ -164,7 +164,7 @@ public class VODClient extends Frame
 		*/
         VODClient vODClient = new VODClient();
         vODClient.isStandalone = true;
-        vODClient.setTitle("VOD3 Movie Player");
+        vODClient.setTitle("VOD3 MoviePlayer");
         vODClient.init();
         vODClient.setSize(370, 400);
         Dimension dimension = Toolkit.getDefaultToolkit().getScreenSize();
