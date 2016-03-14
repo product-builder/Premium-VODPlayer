@@ -1,0 +1,11 @@
+# Lists all features from the model with manual (first digit) and automatic (second digit) selection
+# 0 = deselected, 1 = selected, 2 = undefined
+21VODPlayerCoreAssetsFH
+21VODPlayer
+21ChooseMovie
+12ViewMovieDetail
+11PlayMovie
+12StopMovie
+12PauseMovie
+12QuitPlayer
+12ChangeMoviesServer

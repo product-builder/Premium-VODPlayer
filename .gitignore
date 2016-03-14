@@ -1,0 +1,7 @@
+.profiles
+.settings
+/bin
+/src
+.classpath
+.project
+mc.cfg
