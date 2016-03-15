@@ -94,10 +94,10 @@ public class ListFrame extends Frame // movie list frame
 		bevelPanel1.setLayout(null);
 		bevelPanel1.setBounds(new Rectangle(9, 30, 262, 37));
 		bevelPanel2.setLayout(null);
-		bevelPanel2.setBounds(new Rectangle(9, 72, 262, 249));
+		bevelPanel2.setBounds(new Rectangle(9, 72, 262, 260));
 		listControl1.setBounds(new Rectangle(15, 15, 231, 171));
 
-		buttonControl2.setBounds(new Rectangle(76, 196, 53, 39));
+		buttonControl2.setBounds(new Rectangle(76, 196, 53, 41));
 		buttonControl2.setLabel("Select");
 		buttonControl2.addActionListener(new ListFrameListener2(this));
 
