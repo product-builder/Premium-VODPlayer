@@ -60,6 +60,8 @@ public class VODClient extends Frame
         buttonControl1.setLabel("Movies");
         buttonControl1.addActionListener(new VODClientListener1(this));
         bevelPanel2.add(buttonControl1, null);
+        
+        
     }
 
   
